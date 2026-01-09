@@ -64,5 +64,4 @@ Frontend şu adreste çalışacaktır:
 
 *   Personel Ekleme, Silme, Güncelleme, Listeleme (CRUD)
 *   Departman ve Unvan Yönetimi
-*   Karanlık Mod (Dark Theme) Desteği
 *   Modern ve Responsive Arayüz
